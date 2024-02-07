@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:10:14:00 +0200] "GET /secondassignment HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:10:14:02 +0200] "GET /secondassignment/ HTTP/1.1" 200 1666 http-bio-9090-exec-3 1629
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:10:14:02 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:10:14:07 +0200] "POST /secondassignment/StudentAdmission HTTP/1.1" 500 4838 http-bio-9090-exec-5 19
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:12:53:20 +0200] "GET /secondassignment HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:12:53:21 +0200] "GET /secondassignment/ HTTP/1.1" 200 1666 http-bio-9090-exec-3 265
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:12:53:27 +0200] "POST /secondassignment/StudentAdmission HTTP/1.1" 500 4838 http-bio-9090-exec-5 22
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:12:57:32 +0200] "POST /secondassignment/StudentAdmission HTTP/1.1" 500 4838 http-bio-9090-exec-3 82
